@@ -1,0 +1,43 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 30px;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .form-control {
+    width: 90%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #f19f0f;
+  }
+  
+  .button {
+    display: block;
+    width: 95%;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    background-color: #f19f0f;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+  }
+  

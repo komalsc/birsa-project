@@ -1,0 +1,52 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .logo {
+    margin-left: 3px;
+  }
+  
+  .brand-text {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin-right: 20px;
+  }
+  
+  .nav-link {
+    font-size: 18px;
+    color: #343a40;
+  }
+  
+  .btn {
+    
+    font-size: 18px;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    width: 8rem;
+    color: #fff;
+    cursor: pointer;
+    padding: 10px 20px;
+  }
+  
+  .btn:hover {
+    background-color: #0069d9;
+  }
+  
